@@ -1,0 +1,4 @@
+function test
+performance test
+UIAutomation test
+InterfaceAutomation test
